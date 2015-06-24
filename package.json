@@ -1,0 +1,23 @@
+{
+  "name": "general_entropy",
+  "version": "1.0.0",
+  "description": "NodeJs AngularJS PhasorJs ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMoli/General-Entropy.git"
+  },
+  "author": "Justin Molitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMoli/General-Entropy/issues"
+  },
+  "homepage": "https://github.com/JMoli/General-Entropy#readme",
+  "dependencies": {
+    "restify": "^3.0.3"
+  }
+}
